@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/web3wallet/static/css/main.e4d5467d.chunk.css",
+    "main.js": "/web3wallet/static/js/main.cd8099ff.chunk.js",
+    "main.js.map": "/web3wallet/static/js/main.cd8099ff.chunk.js.map",
+    "runtime-main.js": "/web3wallet/static/js/runtime-main.c10468c7.js",
+    "runtime-main.js.map": "/web3wallet/static/js/runtime-main.c10468c7.js.map",
+    "static/js/2.c722856a.chunk.js": "/web3wallet/static/js/2.c722856a.chunk.js",
+    "static/js/2.c722856a.chunk.js.map": "/web3wallet/static/js/2.c722856a.chunk.js.map",
+    "static/js/3.49963472.chunk.js": "/web3wallet/static/js/3.49963472.chunk.js",
+    "static/js/3.49963472.chunk.js.map": "/web3wallet/static/js/3.49963472.chunk.js.map",
+    "index.html": "/web3wallet/index.html",
+    "static/css/main.e4d5467d.chunk.css.map": "/web3wallet/static/css/main.e4d5467d.chunk.css.map",
+    "static/js/2.c722856a.chunk.js.LICENSE.txt": "/web3wallet/static/js/2.c722856a.chunk.js.LICENSE.txt",
+    "static/media/logo.8c3b4c93.svg": "/web3wallet/static/media/logo.8c3b4c93.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c10468c7.js",
+    "static/js/2.c722856a.chunk.js",
+    "static/css/main.e4d5467d.chunk.css",
+    "static/js/main.cd8099ff.chunk.js"
+  ]
+}
